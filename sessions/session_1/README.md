@@ -20,4 +20,4 @@ The `ai_foundations.ipynb` notebook outlines the fundamental functionalities of 
 
 ## To run streamlit app
 
-streamlit run Home.py
+- **streamlit run Home.py**
