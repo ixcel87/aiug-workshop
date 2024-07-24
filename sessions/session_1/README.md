@@ -17,3 +17,7 @@ The `ai_foundations.ipynb` notebook outlines the fundamental functionalities of 
 - **Vision**
 
 - **Key Prompting Techniques**
+
+## To run streamlit app
+
+- **streamlit run Home.py**
